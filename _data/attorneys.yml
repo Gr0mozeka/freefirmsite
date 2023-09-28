@@ -27,27 +27,3 @@
   picture: samuel.jpg
   email: samuel@lawfirm.com
   phone: "+1 650 000 005"
-
-- name: Sonia Sotomayor
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: sonia.jpg
-  email: sonia@lawfirm.com
-  phone: "+1 650 000 006"
-
-- name: Elena Kagan
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: elena.jpg
-  email: elena@lawfirm.com
-  phone: "+1 650 000 007"
-
-- name: Neil Gorsuch
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: neil.jpg
-  email: neil@lawfirm.com
-  phone: "+1 650 000 008"
-
-- name: Brett Kavanaught
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: brett.jpg
-  email: brett@lawfirm.com
-  phone: "+1 650 000 009"
